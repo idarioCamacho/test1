@@ -1,1 +1,1 @@
-public function AudioController { public function index() {return view}
+public function AudioController { public function index( ) {return true}
